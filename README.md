@@ -26,7 +26,7 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 ---
 
 ## Tools and Skills Used
-- **Tools:** Excel, Tableau, Python, SQL
+- **Tools:** Excel, Powerpoint, Word
 - **Techniques:** Data cleaning, regression analysis, feature engineering
 
 ---
@@ -37,18 +37,8 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 - **Living Area**: Every additional square foot adds approximately $54.19 to the sale price.
 - **Garage Area**: Each additional square foot increases the price by $79.18.
 - Cost-effective improvements to raise home quality (e.g., from "Somewhat Decent" to "Good") can significantly boost home value.
-
----
-
-## Visuals and Insights
-### Correlation Heatmap
-- Identified a strong correlation (0.7993) between `Overall_Qual` and `SalePrice`.
-
-### Multiple Regression Models
-- Improved interpretability by categorizing ordinal variables like `Overall_Qual` into dummy variables (e.g., "Bad," "Good," "Excellent").
-- Insights derived from regression tables guide actionable recommendations for homeowners.
-
-![Regression Table Screenshot](#)
+  
+![Regression Table Screenshot](./Reg_Table.png)
 
 ---
 
@@ -72,8 +62,11 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 
 ---
 
-## Full Report
-- The detailed report and presentation are available [here](#).
+## Report & References
+- The detailed report is available [here](./Ames_Final_Essay_Complete.docx).
+- The detailed presentation is availavble to download via google drive [here](https://docs.google.com/presentation/d/1bu34NsPTy8BAHwYhr_DIaWDWCJ3zw9IX/edit?usp=sharing&ouid=117238299490082419129&rtpof=true&sd=true)
+- The excel reference work is available [here](./Ames_Housing_Analysis_Reference_Material.xlsx).
+- The raw file is available [here](./ames.xlsx).
 
 ---
 
