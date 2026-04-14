@@ -1,5 +1,10 @@
 # Ames Real Estate Market Analysis and Predictive Modeling
 
+## Project Summary
+Analyzed 2,900+ housing records to identify key factors driving home prices. Built a regression model and found that overall quality, living area, and garage size had the strongest impact on pricing. Translated findings into actionable recommendations for improving property value.
+
+---
+
 ## Overview
 This project focuses on analyzing historical housing market data from Ames, Iowa, to develop a predictive model for home sale prices. By leveraging statistical methods and regression analysis, we provide actionable insights for homeowners and realtors. The project includes data cleaning, feature engineering, and the implementation of multiple regression models to identify key factors influencing home value.
 
