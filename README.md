@@ -69,7 +69,7 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 
 ## Report & References
 - The detailed report is available [here](./Ames_Final_Essay_Complete.docx).
-- The detailed presentation is availavble to download via google drive [here](https://docs.google.com/presentation/d/1bu34NsPTy8BAHwYhr_DIaWDWCJ3zw9IX/edit?usp=sharing&ouid=117238299490082419129&rtpof=true&sd=true)
+- The detailed presentation is available to download via google drive [here](https://docs.google.com/presentation/d/1bu34NsPTy8BAHwYhr_DIaWDWCJ3zw9IX/edit?usp=sharing&ouid=117238299490082419129&rtpof=true&sd=true)
 - The excel reference work is available [here](./Ames_Housing_Analysis_Reference_Material.xlsx).
 - The raw file is available [here](./ames.xlsx).
 
